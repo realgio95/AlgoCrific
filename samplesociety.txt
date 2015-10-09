@@ -1,0 +1,17 @@
+#Skip lines that start with this symbol
+# Each record has 3 lines of comma separated values
+# Line 1 = last name, first name, sex, friend value
+# Line 2 likes
+# Line 3 dislikes
+Brown,John,M,2.0
+FOOTBALL,CHURCH,ROCK
+LIARS
+Holford,Mary,F,1.8
+READING,PICNICS,CHURCH
+SMOKING,GAMBLING
+Bradford,Martha,F,2.1
+ANIMALS,POETRY,READING
+LOUDPEOPLE
+Little,Richard,1.5
+REGGAE,SMOKING,DRINKING
+CHILDREN,ANIMALS
