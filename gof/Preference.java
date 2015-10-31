@@ -11,6 +11,7 @@ public enum Preference {
                             TRACKS,     // Watching track and field
                             FOOTBALL,   // Watching football
                             BASKETBALL, // Watching basketball
+                            DRINKING,
                             CRICKET,    // Watching cricket
                             MOVIES,     // Going to, or watching, movies
                             DANCING,    // Going dancing

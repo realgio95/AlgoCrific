@@ -13,8 +13,8 @@ public class Person {
     private String lastName;
     private String firstName;
     private char sex;
-    private List<Preference> likes = new ArrayList<>();
-    private List<Preference> dislikes = new ArrayList<>();
+    protected List<Preference> likes = new ArrayList<Preference>();
+    protected List<Preference> dislikes = new ArrayList<Preference>();
 
 
     /**

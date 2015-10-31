@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MetaSociety()
+comment0.text=\r\n\ Sample\ Null\ constructor.\ Creates\ the\ Garden\ of\ Eden\ with\ two\ citizens\r\n
+comment1.params=name\ startPeriod
+comment1.target=MetaSociety(java.lang.String,\ int)
+comment1.text=\ \r\n\ Constructor\ that\ simply\ sets\ the\ name\ and\ starting\ period\ of\ the\ society\r\n\ @param\ name\ a\ name\ that\ is\ given\ to\ the\ society\r\n\ @param\ startPeriod\ the\ start\ of\ the\ society.\ Can\ be\ a\ year\ (e.g.\ 2014)\ or\ a\ number\ of\ your\ own\ choosing\r\n
+comment2.params=mood\ mode
+comment2.target=void\ tick(int,\ int)
+comment2.text=\r\n\ \ Method\ that\ is\ called\ to\ simulate\ one\ tick\ (e.g.\ a\ year)\ of\ simulation\r\n\ \r\n\ @param\ \ mood\ \ \ mood\ of\ mingling\ (-ve,\ 0,\ or\ +ve)\r\n\ @param\ \ mode\ \ \ can\ be\ used\ to\ control\ type\ of\ mingling\r\n
+comment3.params=mood\ mode
+comment3.target=void\ mingle(int,\ int)
+comment3.text=\r\n\ Defines\ the\ rules\ for\ how\ a\ mingling\ happens\r\n\ @param\ mood\ \ mood\ of\ the\ mingling,\ good\=+ve;neutral\=0;bad\=-ve\r\n\ @param\ mode\ \ can\ be\ used\ to\ define\ different\ types\ of\ mingling\ (use\ as\ you\ wish)\r\n
+comment4.params=
+comment4.target=void\ update()
+comment4.text=\r\n\ Defines\ the\ rules\ for\ how\ the\ society\ is\ to\ change\ after\ a\ mingling\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Formatted\ list\ of\ persons\ in\ the\ society\r\n
+numComments=6

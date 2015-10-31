@@ -3,7 +3,7 @@
 # Line 1 = last name, first name, sex, friend value
 # Line 2 likes
 # Line 3 dislikes
-Brown,John,M,2.0
+Brown,John,M,2.0,
 FOOTBALL,CHURCH,ROCK
 LIARS
 Holford,Mary,F,1.8

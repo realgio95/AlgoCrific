@@ -39,15 +39,16 @@ public abstract class MetaSociety
     }
     
     /** 
-     * Constructor that loads citizen data from a text file
+     * Constructor that simply sets the name and starting period of the society
      * @param name a name that is given to the society
      * @param startPeriod the start of the society. Can be a year (e.g. 2014) or a number of your own choosing
-     * @param fileName name of a text file from which citizen data is to be loaded
-
-     abstract public MetaSociety(String name, int startPeriod, String fileName)
+     */
+     public MetaSociety(String name, int startPeriod)
      {
-     }
-*/     
+         this.nameOfSociety = name;
+         this.period = startPeriod;
+     } 
+     
     /**
      *  Method that is called to simulate one tick (e.g. a year) of simulation
      * 
@@ -83,7 +84,7 @@ public abstract class MetaSociety
      */
     final public String toString()
     {
-        String result = "nameOfSociety";
+        String result = nameOfSociety;
         for (Person p : persons)
         {
                 result += "\n   "+p;

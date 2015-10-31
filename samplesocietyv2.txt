@@ -1,0 +1,38 @@
+#Skip lines that start with this symbol
+# Each record has 3 lines of comma separated values
+# Line 1 = last name, first name, sex, friend value, location
+# Line 2 likes
+# Line 3 dislikes
+Brown,John,M,2.0,Kingston
+FOOTBALL,CHURCH,ROCK
+LIARS
+Holford,Mary,F,1.8,Kingston
+READING,PICNICS,CHURCH
+SMOKING,GAMBLING
+Bradford,Martha,F,2.1,Portmore
+ANIMALS,POETRY,READING
+LOUDPEOPLE
+Little,Richard,M,1.5,Portmore
+REGGAE,SMOKING,DRINKING
+CHILDREN,ANIMALS
+Grisham,John,M,1.9,Kingston
+REGGAE,POETRY,DRINKING
+CHILDREN,ANIMALS
+Ford,Matthew,M,0.5,Kingston
+SMOKING,DRINKING
+ANIMALS
+Hosang,Giovanni,M,1.1,St.Catherine
+READING,PICNICS,CHURCH
+SMOKING,GAMBLING
+Brown,Tennice,F,1.1,St.Catherine
+READING,PICNICS,CHURCH
+SMOKING,GAMBLING
+Walker,Antoinette,F,2.0,St.Catherine
+ANIMALS,POETRY,GAMBLING
+LOUDPEOPLE
+Griffiths,Larone,F,1.8,Portmore
+READING,PICNICS,CHURCH
+SMOKING,GAMBLING,SMOKING
+Williams,Marie,F,1.8,Portmore
+READING,PICNICS,CHURCH
+SMOKING,GAMBLING,SMOKING

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=simulation\ startingPeriod\ textFile
+comment0.target=Society(java.lang.String,\ int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ Society\r\n
+comment1.params=mood\ mode
+comment1.target=void\ mingle(int,\ int)
+comment1.text=\r\n\ Support\ method\ Mingle\r\n\ @param\r\n\ @return\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ Support\ Method\ Update\ (Simulation\ of\ a\ hospital)\r\n\ @param\ \r\n\ @return\r\n
+numComments=3
