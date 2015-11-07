@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Game of Life Society Simulation 
+PURPOSE OF PROJECT: The game consisted of a number of persons living in a society. Friendship was formed when two citizens living in a society meet based on their mood and their compatibility. VERSION or DATE: MAY 2015
+HOW TO START THIS PROJECT: Run the Driver class' main method with any idea of your choice
+AUTHORS: Giovanni HoSang and Mark Ford
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
